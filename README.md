@@ -1,4 +1,4 @@
-# Aulas Java DevDoJo
+# Aulas Maratona Java DevDoJo
 
 
 
@@ -10,6 +10,9 @@
 * Aula 05 - EstruturasCondicionais02.java
 * Aula 05 - EstruturasCondicionais03.java
 * Aula 05 - EstruturasCondicionais04.java
+* Aula 05 - EstruturasCondicionais05Switch.java
+* Aula 05 - EstruturasCondicionais06.java
+* Aula 06 - EstruturasDeRepeticao.java
 
 
 
