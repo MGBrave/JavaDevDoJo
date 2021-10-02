@@ -24,7 +24,7 @@ public class Aula06EstruturasDeRepeticao01 {
 }
 /*
     public static void main(String[] args) {
-        //while, do while, for
+        //Aula06EstruturasDeRepeticao01 - *
         int count = 0;
         while (count < 10){
             System.out.println(++count);
