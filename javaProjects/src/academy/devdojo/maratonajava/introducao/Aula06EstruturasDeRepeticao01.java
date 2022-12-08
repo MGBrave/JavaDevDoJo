@@ -1,4 +1,5 @@
 package academy.devdojo.maratonajava.introducao;
+
 //Aula 28/286
 public class Aula06EstruturasDeRepeticao01 {
     public static void main(String[] args) {
@@ -10,17 +11,20 @@ public class Aula06EstruturasDeRepeticao01 {
 
         count = 0;
         do {
-            System.out.println("dentro do do-while "+ ++count);
+            System.out.println("dentro do do-while " + ++count);
         } while (count < 10);
     /*
         for(count=0; count < 10; count++){
             System.out.println("For " +count);
             */
-    for(int i = 0; i < 10; i++){
-        System.out.println("For " +i);
 
+        System.out.println("===================================" );
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("For " + i);
+
+        }
     }
-  }
 }
 /*
     public static void main(String[] args) {

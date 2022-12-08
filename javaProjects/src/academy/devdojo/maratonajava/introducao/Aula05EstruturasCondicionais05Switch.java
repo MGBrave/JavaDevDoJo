@@ -1,5 +1,5 @@
 package academy.devdojo.maratonajava.introducao;
-
+// aula 26/286
 public class Aula05EstruturasCondicionais05Switch {
     public static void main(String[] args) {
         //Imprima o dia da semana, considerando 1 como domingo
@@ -32,17 +32,6 @@ public class Aula05EstruturasCondicionais05Switch {
                 break;
 
         }
-        char sexo = 'F';
-        switch (sexo){
-            case 'M':
-                System.out.println("Homem");
-                break;
-            case 'F':
-                System.out.println("Mulher");
-                break;
-            default:
-                System.out.println("Opção Inválida");
-                break;
-        }
+
     }
 }
