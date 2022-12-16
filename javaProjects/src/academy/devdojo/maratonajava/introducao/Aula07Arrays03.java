@@ -1,5 +1,5 @@
 package academy.devdojo.maratonajava.introducao;
-
+//aula 34/286
 public class Aula07Arrays03 {
     public static void main(String[] args) {
         int[] numeros = new int[3];
